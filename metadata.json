@@ -1,0 +1,5 @@
+{
+  "name": "Mind AI",
+  "description": "一个模仿 Google AI Quests 风格的互动教育游戏，通过 Three.js 可视化展示监督学习过程，教导用户如何训练 AI 识别稻田病害。",
+  "requestFramePermissions": []
+}
